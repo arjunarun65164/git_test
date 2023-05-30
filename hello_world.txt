@@ -1,0 +1,2 @@
+I'm making some changes to this text file.
+I need to add this to the staging area then commit the change
